@@ -1,4 +1,4 @@
-package solution;
+package com.excercise.solution;
 
 import org.junit.Test;
 
